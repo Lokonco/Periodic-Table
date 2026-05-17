@@ -1,11 +1,11 @@
-# Periodic Table of Elements - C++
+# Periodic Table of Elements
  
 A periodic table built into the terminal. Main reason for building this was me taking a chemistry class and wanting fast access to a periodic table.
 
 <div align="center">
 
 <pre>
-                 Periodic Table of Elements
+     Periodic Table of Elements
     1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18
 1 H                                                  He
 2 Li Be                               B  C  N  O  F  Ne
