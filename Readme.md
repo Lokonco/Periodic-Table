@@ -123,7 +123,7 @@ Element data comes from a CSV file containing 118 elements with properties like:
 - Atomic mass, density, electronegativity
 - Melting/boiling points
 - Discovery information
-[CSV SOURCE](https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee)
+- [CSV SOURCE](https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee)
 
 ## Future Improvements
  
