@@ -40,7 +40,7 @@ std::optional<int> safeStoi(const std::string& str) {
 
 int main(int argc, char* argv[]) {
     // Open the file
-    std::ifstream file("../PeriodicTable.csv");
+    std::ifstream file("data/PeriodicTable.csv");
 
     // Set extra mode to false unless user request it
     bool extraMode = false;
